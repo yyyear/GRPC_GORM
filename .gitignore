@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-
+protoc-gen-go
 # Test binary, built with `go test -c`
 *.test
 
